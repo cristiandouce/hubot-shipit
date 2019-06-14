@@ -17,20 +17,21 @@
 #   maddox
 
 squirrels = [
-  "http://shipitsquirrel.github.io/images/ship%20it%20squirrel.png",
-  "http://images.cheezburger.com/completestore/2011/11/2/aa83c0c4-2123-4bd3-8097-966c9461b30c.jpg",
-  "http://images.cheezburger.com/completestore/2011/11/2/46e81db3-bead-4e2e-a157-8edd0339192f.jpg",
-  "http://28.media.tumblr.com/tumblr_lybw63nzPp1r5bvcto1_500.jpg",
-  "http://i.imgur.com/DPVM1.png",
-  "http://d2f8dzk2mhcqts.cloudfront.net/0772_PEW_Roundup/09_Squirrel.jpg",
-  "http://www.cybersalt.org/images/funnypictures/s/supersquirrel.jpg",
-  "http://www.zmescience.com/wp-content/uploads/2010/09/squirrel.jpg",
-  "http://img70.imageshack.us/img70/4853/cutesquirrels27rn9.jpg",
-  "http://img70.imageshack.us/img70/9615/cutesquirrels15ac7.jpg",
-  "https://dl.dropboxusercontent.com/u/602885/github/sniper-squirrel.jpg",
-  "http://1.bp.blogspot.com/_v0neUj-VDa4/TFBEbqFQcII/AAAAAAAAFBU/E8kPNmF1h1E/s640/squirrelbacca-thumb.jpg",
-  "https://dl.dropboxusercontent.com/u/602885/github/soldier-squirrel.jpg",
-  "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
+  "https://user-images.githubusercontent.com/367429/59542484-937e7b80-8edc-11e9-8b75-ca1d0f2c2fe9.jpg",
+  "https://user-images.githubusercontent.com/367429/59542485-937e7b80-8edc-11e9-9813-96ca4d9f1fb6.png",
+  "https://user-images.githubusercontent.com/367429/59542486-94171200-8edc-11e9-856d-6ca9b03783db.jpg",
+  "https://user-images.githubusercontent.com/367429/59542487-94171200-8edc-11e9-89d9-abd914ff90c8.gif",
+  "https://user-images.githubusercontent.com/367429/59542488-94171200-8edc-11e9-8a4f-474d8526c7cb.jpg",
+  "https://user-images.githubusercontent.com/367429/59542489-94171200-8edc-11e9-9e7d-e0b4e3ca90fa.jpg",
+  "https://user-images.githubusercontent.com/367429/59542490-94afa880-8edc-11e9-8c90-a1c565004868.jpg",
+  "https://user-images.githubusercontent.com/367429/59542491-94afa880-8edc-11e9-9460-e4391ad867f6.jpg",
+  "https://user-images.githubusercontent.com/367429/59542493-94afa880-8edc-11e9-9f0b-ef0b5e656b3d.png",
+  "https://user-images.githubusercontent.com/367429/59542494-95483f00-8edc-11e9-91af-c70970b32e65.png",
+  "https://user-images.githubusercontent.com/367429/59542496-95483f00-8edc-11e9-9bdd-a23ece3caf70.jpg",
+  "https://user-images.githubusercontent.com/367429/59542497-95483f00-8edc-11e9-8222-7fcdd1ad9e2e.jpg",
+  "https://user-images.githubusercontent.com/367429/59542498-95483f00-8edc-11e9-83e8-9ec7c52e46b2.jpg",
+  "https://user-images.githubusercontent.com/367429/59542499-95e0d580-8edc-11e9-97bf-b577738f7ab4.jpg",
+  "https://user-images.githubusercontent.com/367429/59542500-95e0d580-8edc-11e9-9cf4-009f4cd305be.jpg"
 ]
 
 module.exports = (robot) ->
